@@ -2,7 +2,7 @@
 #include "function_divisao.c"
 #include "function_multiplicar.c"
 
-int main()
+int main(void)
 {
     int input = 0;
     int num1 = 0;
