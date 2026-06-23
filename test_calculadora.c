@@ -2,7 +2,7 @@
 #include <assert.h>
 #include "function_divisao.c"
 #include "function_multiplicar.c"
-int main()
+int main(void)
 {
     assert(dividir(14,2) == 7);
     assert(dividir(99,3) == 33);
